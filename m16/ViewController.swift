@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  m16
 //
-//  Created by Максим Старцев on 15.08.2022.
+//  Created by Maxim Startsev on 15.08.2022.
 //
 
 import UIKit
