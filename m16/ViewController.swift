@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .red
+        print("merge1")
         // Do any additional setup after loading the view.
     }
 
