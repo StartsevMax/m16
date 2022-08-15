@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .red
         print("merge1")
+        print("myfeature")
         // Do any additional setup after loading the view.
     }
 
